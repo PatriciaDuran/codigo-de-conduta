@@ -6,7 +6,7 @@
 
 O mercado de tecnologia é um dos que mais cresce no mundo, gerando milhares de oportunidades de carreira. Ao longo de muitas décadas tivemos mulheres como pioneiras, programando os primeiros computadores digitais e tantos outros projetos que marcaram a história da humanidade. No entanto, atualmente enfrentamos um gap da presença feminina na área.
 
-Isso não acontece por que as mulheres não interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas à estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representativadade é um dos pontos mias importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
+Isso não acontece por que as mulheres não têm interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas à estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representatividade é um dos pontos mais importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
 
 ## Somos uma comunidade de mulheres que se apoiam, baseada em um ambiente seguro, com representatividade e sororidade
 
@@ -39,7 +39,7 @@ Acreditamos em um ambiente onde todas se sintam bem-vindas e possam compartilhar
 -	Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
 -	Nós evitamos tópicos ofensivos como forma de humor.
 -	Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político.
--	Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do WoMakersCode, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
+-	Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do WoMakersCode, como inscrições para novos cursos ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
 
 **✔️Nós trabalhamos ativamente para:**
 
@@ -54,15 +54,15 @@ Acreditamos em um ambiente onde todas se sintam bem-vindas e possam compartilhar
 -	Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, cancele sua inscrição em nossos grupos online ou eventos presenciais.
 
 
-**📣 Regras de publicação**
+**📣 Regras de publicação:**
 
 Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização deste grupo:
 -	Publicar coisas somente relacionadas a tecnologia. Outros temas sem relação serão excluídos.
--	Divulgação de eventos, palestras e cursos que não pertençam ao grupos são permitidos desde que tenham um direcionamento para promover a diversidade em seu ecossistema e que sejam GRATUITOS. Outros temas não relacionados não são permitidos. Conteúdos pagos precisam de aprovação prévia para publicação.
+-	Divulgação de eventos, palestras e cursos que não pertençam ao grupo são permitidos desde que tenham um direcionamento para promover a diversidade em seu ecossistema e que sejam GRATUITOS. Outros temas não relacionados não são permitidos. Conteúdos pagos precisam de aprovação prévia para publicação.
 -	Se você tem um blog que fala sobre tecnologia e quer divulgar suas postagens no grupo, tudo bem, desde que você não utilize o grupo somente para isso.
 -	Se você nunca contribui com as discussões do grupo e simplesmente aparece para divulgar seus links, será convidado a se retirar. Os membros que insistirem em não seguir essas regras, infelizmente serão excluídos do grupo.
 
-**❓ E se o Código de Conduta for desrespeitados?**
+**❓ E se o Código de Conduta for desrespeitado?**
 
 **Online:**
 
